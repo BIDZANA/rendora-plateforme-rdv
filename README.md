@@ -1,4 +1,4 @@
-# RENDORA — Refonte hexagonale (premier jalon)
+# RENDORA - Refonte hexagonale (premier jalon)
 
 Backend Java 21 / Spring Boot 3.5.3, PostgreSQL, Flyway, ports et adaptateurs.
 
